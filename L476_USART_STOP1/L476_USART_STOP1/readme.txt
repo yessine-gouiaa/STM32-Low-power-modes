@@ -1,0 +1,2 @@
+simple application that prints "Hello before entering stop1 mode\n before entering stop mdoe and  Hello after getting out of stop1 mode after exsiitng stop mode
+shows that there is a maximum baudrate that you can reach after wakeing up fro mstop mode
